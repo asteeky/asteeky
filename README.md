@@ -13,10 +13,10 @@
     /About_Me
     │
     ├── /bio
-    │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── /electronics_technician
-    │   ├── /computer science undergraduated
-    │   └── /embedded systems developer in research and development sector (R&D)
+    │   ├── brazilian - (pt/br + english)
+    │   ├── /
+    │   ├── /
+    │   └── /
     │
     ├── /os
     │   ├── /Windows
@@ -34,10 +34,10 @@
     │   └── 
     │
     └── /learning
-        ├── editing codes in Vim
-        ├── golang.go
-        ├── rust.rs
-        └── zig.zig
+        ├── C++
+        ├── 
+        ├── 
+        └── 
         
   </tr>
 </table>
