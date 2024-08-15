@@ -15,7 +15,7 @@
     /About_Me
     │
     ├── /bio
-    │   ├── brazilian - (pt/br + english + russian + spanish)
+    │   ├── brazilian - (pt/br + english + spanish)
     │   ├── / -----------------------------------------------------------
     │   ├── /
     │   └── /
