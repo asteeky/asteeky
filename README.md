@@ -23,7 +23,7 @@
     ├── /os
     │   ├── /Windows
     │   │   └── Windows (main)
-    │   └── /windows
+    │   └── /windowsx64
     │       └── Windows 10
     │
     ├── /languages
